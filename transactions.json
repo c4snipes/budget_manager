@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "date": "2024-10-30T15:24:04.929422-04:00",
+    "amount": 5000.0,
+    "description": "Salary",
+    "t_type": "Income"
+  },
+  {
+    "id": 2,
+    "date": "2024-10-30T15:24:14.300353-04:00",
+    "amount": 1500.0,
+    "description": "Rent",
+    "t_type": "Expense"
+  },
+  {
+    "id": 3,
+    "date": "2024-10-30T15:25:00.364476-04:00",
+    "amount": 5000.0,
+    "description": "Salary",
+    "t_type": "Income"
+  },
+  {
+    "id": 4,
+    "date": "2024-10-30T15:27:48.532710-04:00",
+    "amount": 5000.0,
+    "description": "Salary",
+    "t_type": "Income"
+  }
+]
